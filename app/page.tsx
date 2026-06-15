@@ -4,9 +4,9 @@ export default function Home() {
 
     <main>
 
-      <h1>Hello Darin!</h1>
+      <h1>Good day, Dr. Jerse :)</h1>
 
-      <p>My first Next.js application.</p>
+      <p>We be Vercel'n. And GitHub'n. Next is database'n. :)</p>
 
     </main>
 
